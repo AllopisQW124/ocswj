@@ -1,0 +1,38 @@
+{
+    "name": "vvc",
+    "description": "vvc",
+    "keywords": ["vvc"],
+    "env": {
+        "AA": {
+            "description": "vvc",
+            "value": "vvc"
+        },
+        "AUUID": {
+            "description": "UUID",
+            "value": "5df22629-4f9b-4ca4-a681-a81e104395de"
+        },
+        "CADDYIndexPage": {
+            "description": "CaddyIndex",
+            "value": "https://raw.githubusercontent.com/AllopisQW124/index/main/3DCEList-master/index.html"
+        },
+        "CONFIGCADDY": {
+            "description": "CaddyConfig",
+            "value": "https://raw.githubusercontent.com/zoteqarer/duo-xay/main/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "XrayConfig",
+            "value": "https://raw.githubusercontent.com/zoteqarer/duo-xay/main/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "support:https://www.v2fly.org/config/protocols/shadowsocks.html",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "Storefiles",
+            "value": "https://raw.githubusercontent.com/zoteqarer/duo-xay/main/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/AllopisQW124/ocswj",
+    "repository": "https://github.com/AllopisQW124/ocswj",
+    "stack": "container"
+}
